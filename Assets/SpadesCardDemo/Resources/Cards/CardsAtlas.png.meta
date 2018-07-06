@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: ff6d6a5688f854b34908c631a5755059
+timeCreated: 1450705317
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cardbg
+    21300002: Karo
+    21300004: KaroJ
+    21300006: KaroK
+    21300008: KaroQ
+    21300010: Kupa
+    21300012: KupaJ
+    21300014: KupaK
+    21300016: KupaQ
+    21300018: Maca
+    21300020: MacaJ
+    21300022: MacaK
+    21300024: MacaQ
+    21300026: Sinek
+    21300028: SinekJ
+    21300030: SinekK
+    21300032: SinekQ
+    21300034: cardRing_blue
+    21300036: cardRing_green
+    21300038: cardRing_yellow
+    21300040: card_shadow
+    21300042: 2
+    21300044: 3
+    21300046: 4
+    21300048: 5
+    21300050: 6
+    21300052: 7
+    21300054: 8
+    21300056: 9
+    21300058: 10
+    21300060: Ace
+    21300062: Clubs
+    21300064: ClubsJack
+    21300066: ClubsKing
+    21300068: ClubsQueen
+    21300070: Diamonds
+    21300072: DiamondsJack
+    21300074: DiamondsKing
+    21300076: DiamondsQueen
+    21300078: Hearts
+    21300080: HeartsJack
+    21300082: HeartsKing
+    21300084: HeartsQueen
+    21300086: Jack
+    21300088: King
+    21300090: Queen
+    21300092: Spades
+    21300094: SpadesJack
+    21300096: SpadesKing
+    21300098: SpadesQueen
+    21300100: Clubs2
+    21300102: Clubs3
+    21300104: Clubs4
+    21300106: Clubs5
+    21300108: Clubs6
+    21300110: Clubs7
+    21300112: Clubs8
+    21300114: Clubs9
+    21300116: Clubs10
+    21300118: ClubsAce
+    21300120: Diamonds2
+    21300122: Diamonds3
+    21300124: Diamonds4
+    21300126: Diamonds5
+    21300128: Diamonds6
+    21300130: Diamonds7
+    21300132: Diamonds8
+    21300134: Diamonds9
+    21300136: Diamonds10
+    21300138: DiamondsAce
+    21300140: Hearts2
+    21300142: Hearts3
+    21300144: Hearts4
+    21300146: Hearts5
+    21300148: Hearts6
+    21300150: Hearts7
+    21300152: Hearts8
+    21300154: Hearts9
+    21300156: Hearts10
+    21300158: HeartsAce
+    21300160: Spades2
+    21300162: Spades3
+    21300164: Spades4
+    21300166: Spades5
+    21300168: Spades6
+    21300170: Spades7
+    21300172: Spades8
+    21300174: Spades9
+    21300176: Spades10
+    21300178: SpadesAce
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: card_shadow
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 102.5}
+        - {x: 66, y: 108.5}
+        - {x: -66, y: 108.5}
+        - {x: -74, y: 102.5}
+        - {x: -75, y: 99.5}
+        - {x: -75, y: -98.5}
+        - {x: -73, y: -102.5}
+        - {x: -67, y: -108.5}
+        - {x: 66, y: -108.5}
+        - {x: 73, y: -102.5}
+        - {x: 75, y: -98.5}
+        - {x: 75, y: 98.5}
+    - name: Cardbg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: cardRing_blue
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1965
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -38.5}
+        - {x: -34, y: -40.5}
+        - {x: 30, y: -40.5}
+        - {x: 40, y: -26.5}
+        - {x: 40, y: 24.5}
+        - {x: 24, y: 40.5}
+      - - {x: -14, y: -19.5}
+        - {x: -14, y: 18.5}
+        - {x: 14, y: 18.5}
+        - {x: 14, y: -19.5}
+    - name: cardRing_green
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1882
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -38.5}
+        - {x: -34, y: -40.5}
+        - {x: 30, y: -40.5}
+        - {x: 40, y: -26.5}
+        - {x: 40, y: 24.5}
+        - {x: 24, y: 40.5}
+      - - {x: -14, y: -19.5}
+        - {x: -14, y: 18.5}
+        - {x: 14, y: 18.5}
+        - {x: 14, y: -19.5}
+    - name: cardRing_yellow
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1799
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 40.5}
+        - {x: -40, y: -38.5}
+        - {x: -34, y: -40.5}
+        - {x: 30, y: -40.5}
+        - {x: 40, y: -26.5}
+        - {x: 40, y: 24.5}
+        - {x: 24, y: 40.5}
+      - - {x: -14, y: -19.5}
+        - {x: -14, y: 18.5}
+        - {x: 14, y: 18.5}
+        - {x: 14, y: -19.5}
+    - name: Clubs2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs5
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Clubs10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1829
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: ClubsAce
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: ClubsJack
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1610
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: ClubsKing
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: ClubsQueen
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds8
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Diamonds10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1391
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: DiamondsAce
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1172
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: DiamondsJack
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: DiamondsKing
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: DiamondsQueen
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts3
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Hearts10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 953
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: HeartsAce
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: HeartsJack
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: HeartsKing
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: HeartsQueen
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades8
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 515
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades9
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: Spades10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 734
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: SpadesAce
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: SpadesJack
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: SpadesKing
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 77
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    - name: SpadesQueen
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 296
+        width: 150
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108.5}
+        - {x: -75, y: -104.5}
+        - {x: -71, y: -108.5}
+        - {x: 71, y: -108.5}
+        - {x: 75, y: -104.5}
+        - {x: 75, y: 108.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

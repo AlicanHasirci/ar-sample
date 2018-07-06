@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c8673f3-4f3d-4e2d-b549-c668105232e5" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SplineModifier.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SplineModifier.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1530862878000" expanded="false" signature="6:63" ph="..." />
+                <marker date="1530862878000" expanded="true" signature="109:409" ph="{...}" />
+                <marker date="1530862878000" expanded="true" signature="167:213" ph="{...}" />
+                <marker date="1530862878000" expanded="true" signature="275:407" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>FOV</find>
+      <find>FirstPersonCamera</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnchorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Opponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkAvailabilityStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Trackable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Anchor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/CardThrowAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/EnvironmentalLight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Hand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Materials/EdgeDetectionBackground.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB3BB196-33E5-4C90-8526-1341FFFBA7C1/1d/8629cd7e/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95A7C3EA-A6A6-4469-B7FE-573972B495DC/91/91772b8b/ShortcutExtensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/35/df4c33b7/Object.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/ComputerVisionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/20/88381e13/MouseButton.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/34/a2bb6e61/Input.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/17/a89ba10a/Space.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Session.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SplineModifier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16520E49-B1DE-4A2C-BC31-D0C04B1D4DB4/4a/64643ef7/DateTime.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE35C8E8-4ADC-4570-9159-4A7CFC6ED9E1/18/2d1b6a75/UIBehaviour.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/25/e38dbcad/Pose.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Frame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHitFlags.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TableController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CombatText.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TestBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/SampleARController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SampleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CombatText.cs" />
+        <option value="$PROJECT_DIR$/Assets/TableController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnchorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/CardThrowAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Opponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Hand.cs" />
+        <option value="$PROJECT_DIR$/Assets/SplineModifier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TableController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ar-sample" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ar-sample" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ar-sample" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ar-sample" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ar-sample (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="21439">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="21439" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8673f3-4f3d-4e2d-b549-c668105232e5" name="Default" comment="" />
+      <created>1530603692902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530603692902</updated>
+      <workItem from="1530603694754" duration="15885000" />
+      <workItem from="1530774611259" duration="7577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23462000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="22" width="1920" height="1054" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25239617" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993576" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="true" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TableController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/ComputerVision/Scripts/ComputerVisionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="407" column="18" selection-start-line="407" selection-start-column="18" selection-end-line="407" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSessionConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ApkAvailabilityStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TestBehaviour.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/17/a89ba10a/Space.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SampleController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/ARCoreSession.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE35C8E8-4ADC-4570-9159-4A7CFC6ED9E1/18/2d1b6a75/UIBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DB3BB196-33E5-4C90-8526-1341FFFBA7C1/1d/8629cd7e/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/Examples/HelloAR/Scripts/HelloARController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="131" column="13" selection-start-line="106" selection-start-column="12" selection-end-line="131" selection-end-column="13" />
+          <folding>
+            <marker date="1528813748000" expanded="true" signature="0:834" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1528813748000" expanded="true" signature="875:7815" ph="{...}" />
+            <marker date="1528813748000" expanded="false" signature="888:1140" ph="..." />
+            <marker date="1528813748000" expanded="true" signature="1153:1223" ph="/// Controls the HelloAR example. ... " />
+            <marker date="1528813748000" expanded="true" signature="1274:7813" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="1289:1433" ph="/// The first-person camera being used to render the passthrough camera image (i.e. AR background). ... " />
+            <marker date="1528813748000" expanded="true" signature="1484:1587" ph="/// A prefab for tracking and visualizing detected planes. ... " />
+            <marker date="1528813748000" expanded="true" signature="1644:1756" ph="/// A model to place when a raycast from a user touch hits a plane. ... " />
+            <marker date="1528813748000" expanded="true" signature="1811:1937" ph="/// A gameobject parenting UI for displaying the &quot;searching for planes&quot; snackbar. ... " />
+            <marker date="1528813748000" expanded="true" signature="1994:2120" ph="/// The rotation in degrees need to apply to model when the Andy model is placed. ... " />
+            <marker date="1528813748000" expanded="true" signature="2184:2386" ph="/// A list to hold all planes ARCore is tracking in the current frame. This object is used across ... " />
+            <marker date="1528813748000" expanded="true" signature="2473:2619" ph="/// True if the app is in the process of quitting due to an ARCore connection error, otherwise false. ... " />
+            <marker date="1528813748000" expanded="true" signature="2672:2747" ph="/// The Unity Update() method. ... " />
+            <marker date="1528813748000" expanded="true" signature="2776:5235" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="3063:3275" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="3153:3261" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="3544:3596" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="3954:5225" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="3985:4126" ph="/* Use hit pose and camera pose to check if hittest is from the ... */" />
+            <marker date="1528813748000" expanded="true" signature="4333:4444" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="4465:5211" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="4863:4991" ph="/* Create an anchor to allow ARCore to track the hitpoint as understanding of the physical ... */" />
+            <marker date="1528813748000" expanded="true" signature="5245:5337" ph="/// Check and update the application lifecycle. ... " />
+            <marker date="1528813748000" expanded="true" signature="5388:6695" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="5507:5571" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="5695:5844" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="5861:5952" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="5983:6035" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="6213:6417" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="6464:6685" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="6705:6784" ph="/// Actually quit the application. ... " />
+            <marker date="1528813748000" expanded="true" signature="6815:6867" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="6877:7035" ph="/// Show an Android toast message. ... " />
+            <marker date="1528813748000" expanded="true" signature="7097:7807" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="7353:7797" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="7541:7780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/25/e38dbcad/Pose.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/34/a2bb6e61/Input.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/20/88381e13/MouseButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHitFlags.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/TrackableHit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="52" column="21" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Trackable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="85" column="26" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Frame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="90" column="27" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C3E131ED-A96C-42E5-9588-114150DD5B52/35/df4c33b7/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Anchor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="130" column="13" lean-forward="true" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/Session.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/16520E49-B1DE-4A2C-BC31-D0C04B1D4DB4/4a/64643ef7/DateTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="579" column="20" selection-start-line="579" selection-start-column="20" selection-end-line="579" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CombatText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+          <folding>
+            <marker date="1530692844000" expanded="false" signature="6:130" ph="..." />
+            <marker date="1530692844000" expanded="true" signature="208:353" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="253:351" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="402:2858" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="714:930" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="970:1006" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="1049:1204" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="1241:1579" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="1628:1896" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="1937:2856" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="2397:2539" ph="{...}" />
+            <marker date="1530692844000" expanded="true" signature="2569:2808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TableController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleARCore/SDK/Scripts/EnvironmentalLight.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="33" column="62" lean-forward="true" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+          <folding>
+            <marker date="1528813748000" expanded="true" signature="0:835" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1528813748000" expanded="true" signature="859:2705" ph="{...}" />
+            <marker date="1528813748000" expanded="false" signature="872:917" ph="..." />
+            <marker date="1528813748000" expanded="true" signature="923:1086" ph="/// A component that automatically adjust lighting settings for the scene ... " />
+            <marker date="1528813748000" expanded="true" signature="1162:2703" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="1177:1344" ph="/// Unity update method that sets global light estimation shader constant to match ... " />
+            <marker date="1528813748000" expanded="true" signature="1373:2697" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="1546:1990" ph="{...}" />
+            <marker date="1528813748000" expanded="true" signature="1577:1730" ph="/* Set _GlobalColorCorrection to white in editor, if the value is not set, all materials ... */" />
+            <marker date="1528813748000" expanded="true" signature="2062:2114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AnchorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <marker date="1530779421000" expanded="false" signature="6:112" ph="..." />
+            <marker date="1530779421000" expanded="true" signature="159:1751" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="634:709" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="739:773" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="800:1632" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="978:1629" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="1168:1625" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="1253:1460" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="1314:1421" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="1663:1749" ph="{...}" />
+            <marker date="1530779421000" expanded="true" signature="1687:1746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/CardThrowAnimation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <marker date="1530779590000" expanded="false" signature="6:109" ph="..." />
+            <marker date="1530779590000" expanded="true" signature="227:1604" ph="{...}" />
+            <marker date="1530779590000" expanded="true" signature="576:1602" ph="{...}" />
+            <marker date="1530779590000" expanded="true" signature="892:1533" ph="{...}" />
+            <marker date="1530779590000" expanded="true" signature="1657:1928" ph="{...}" />
+            <marker date="1530779590000" expanded="true" signature="1784:1926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Opponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1530779629000" expanded="false" signature="6:57" ph="..." />
+            <marker date="1530779629000" expanded="true" signature="97:748" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="270:404" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="430:530" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="565:746" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="783:1748" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="880:1018" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="925:1012" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1056:1110" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1169:1223" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1284:1358" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1421:1454" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1551:1599" ph="{...}" />
+            <marker date="1530779629000" expanded="true" signature="1696:1746" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95A7C3EA-A6A6-4469-B7FE-573972B495DC/91/91772b8b/ShortcutExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="637" column="22" selection-start-line="637" selection-start-column="22" selection-end-line="637" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SpadesCardDemo/Scripts/Hand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="50" column="44" lean-forward="true" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <folding>
+            <marker date="1530792449000" expanded="false" signature="6:178" ph="..." />
+            <marker date="1530792449000" expanded="true" signature="244:1215" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="289:486" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="435:480" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="519:1213" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="1313:6183" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="1347:1423" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="1818:1876" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="1903:2266" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2108:2204" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2296:2422" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2333:2391" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2457:2729" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2542:2723" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2770:3336" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="2819:3330" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="3160:3286" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="3383:3752" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="3786:3901" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="3946:4400" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="3983:4014" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4461:4894" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4533:4835" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4599:4758" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4758:4825" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4835:4888" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="4953:5042" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5025:5036" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5096:5506" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5168:5500" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5256:5356" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5356:5490" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5419:5476" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5593:5688" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="5740:6181" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="6035:6175" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="6228:6634" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="6433:6520" ph="{...}" />
+            <marker date="1530792449000" expanded="true" signature="6560:6632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TableController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="118" selection-start-line="23" selection-start-column="118" selection-end-line="23" selection-end-column="118" />
+          <folding>
+            <marker date="1530862907000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1530862907000" expanded="true" signature="110:1197" ph="{...}" />
+            <marker date="1530862907000" expanded="true" signature="288:1103" ph="{...}" />
+            <marker date="1530862907000" expanded="true" signature="584:950" ph="{...}" />
+            <marker date="1530862907000" expanded="true" signature="950:1097" ph="{...}" />
+            <marker date="1530862907000" expanded="true" signature="1146:1195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SplineModifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1530862878000" expanded="false" signature="6:63" ph="..." />
+            <marker date="1530862878000" expanded="true" signature="109:409" ph="{...}" />
+            <marker date="1530862878000" expanded="true" signature="167:213" ph="{...}" />
+            <marker date="1530862878000" expanded="true" signature="275:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
